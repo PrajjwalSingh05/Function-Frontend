@@ -1,4 +1,4 @@
-# Project Title: DegenToken
+# Project Title: Function Frontend
 
 # Overview
 The NewAssigment contract is a simple Ethereum smart contract that allows users to deposit and withdraw Ether, while keeping track of individual balances. The contract has an owner, which is the address that deployed the contract.
